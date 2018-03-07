@@ -1,5 +1,5 @@
 ---
-title: "Users’ Motivation in Sharing Information on Social Media"
+title: "Users&#39; Motivation in Sharing Information on Social Media"
 collection: publications
 permalink: /publication/user-motivation-sharing-information-social-media
 excerpt: 'This study discusses the motivation of information sharing activities in social media. Types of information reviewed are personal, sensational, political, casual, and experience.'
