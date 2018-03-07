@@ -80,31 +80,31 @@ analytics:
 author:
   name             : "Qorib Munajat"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Lecturer at Faculty of Computer Science, Universitas Indonesia"
+  location         : "Depok, West of Java, Indonesia"
   employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  googlescholar    : "https://scholar.google.co.id/citations?user=H6XClRUAAAAJ&hl=en"
+  email            : "qoribmunajat@cs.ui.ac.id"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "https://facebook.com/qoribmunajat"
   foursquare       :
-  github           : "academicpages"
+  github           : "qoribmunajat"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/qoribmunajat/"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
