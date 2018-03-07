@@ -1,0 +1,11 @@
+---
+title: "Information Credibility Factors on Information Sharing Activities in Social Media"
+collection: publications
+permalink: /publication/information-credibility-factors-sharing-information-social-media
+excerpt: 'This study aims to identify factors influencing information credibility from information consumer’s perspective. There are five types of information studied which are personal, sensational, political, casual, and experience information.'
+abstract: 'Social media became a popular platform to share information. However, since the information is shared by individual, it is important to identify which information is credible to avoid misinformation. This study aims to identify factors influencing information credibility from information consumer’s perspective. There are five types of information studied which are personal, sensational, political, casual, and experience information.  The study examined information from five categories of social media which are social networking sites, microblogging sites, wikis, online blogs, and online forums. Data from 255 respondents were analyzed with descriptive statistics. The results showed that link-to-other-sources is the most influential credibility factors for personal, sensational, and political information. Meanwhile, interests-in-the topic became the most important credibility factor for casual and experience information. The least favored factors for all type of information is embedded audio factor. In addition, these studies also found more additional credibility factors that have not been covered by previous study which are embedded photo/picture, source of information, writing aspects, logical, comment, similarity/coherence with other media, and similar experience.'
+date: 2017-11-03
+venue: 'The Second International Conference on Informatics and Computing (ICIC), Jayapura'
+paperurl: 'http://qoribmunajat.github.io/files/information-credibility-factors-sharing-information-social-media.pdf'
+citation: 'Ghaisani, A. P., Munajat, Q., & Handayani, P. W. (2017). Information Credibility Factors on Information Sharing Activities in Social Media. <i>The Second International Conference on Informatics and Computing (ICIC)</i>.'
+---
