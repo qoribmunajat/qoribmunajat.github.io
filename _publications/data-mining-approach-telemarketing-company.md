@@ -1,0 +1,11 @@
+---
+title: "A Data Mining Approach to Improve Benefit of Telemarketing: A Case Study of E-Commerce Company"
+collection: publications
+permalink: /publication/data-mining-approach-telemarketing-company
+excerpt: 'In this study, we conduct a data mining approach to classify the potential customer that will help increase the sales. We aim to find the best class imbalance technique and learning algorithm for e-commerce C2C classified ads company case.'
+abstract: 'XYZ Company, an e-commerce company focusing on Customer to Customer (C2C) classified ads, have been using telemarketing since June 2016. However, their weekly average conversion rate from telemarketing is only 5,1% which is less than the average industry conversion rate for telemarketing (8,21 %). To improve the conversion rate, we need to understand the customer behavior and characteristic. Therefore, in this study, we conduct a data mining approach to classify the potential customer that will help increase the sales. We aim to find the best class imbalance technique and learning algorithm for e-commerce C2C classified ads company case. CRISP-DM methodology was used as the guideline principle in this research. Learning algorithms experimented are Bayesian Network, Decision Tree, Random forest, Support Vector Machine, Neural Network, Bagging Neural Network, Deep Neural Network, Adaboost Deep Neural Network, Convolutional Neural Network, and Extreme Gradient Boosting Tree. SMOTE and undersampling technique were compared in addressing class imbalance problem. The classification performance are evaluated using cost benefit analysis. The result found that Adaboost Deep Neural Network ensemble learning algorithm trained using the SMOTE training data produced the highest profit value with a potential gain of 3.56 times compared without using the classification model. In general, SMOTE method for balancing classes on training data provides better results than the undersampling method.'
+date: 2017-11-03
+venue: '2017 2nd International Symposium of Information and Internet Technology, Phuket'
+paperurl: 'http://qoribmunajat.github.io/files/data-mining-approach-telemarketing-company.pdf'
+citation: 'Erlangga, B., Budi, I., & Munajat, Q. (2017). A Data Mining Approach to Improve Benefit of Telemarketing: A Case Study of E-Commerce Company. <i>Symintech 2017</i>.'
+---

@@ -7,5 +7,5 @@ abstract: 'Cryptocurrency trade is now a popular type of investment. Cryptocurre
 date: 2017-10-28
 venue: '9th International Conference on Advanced Computer Science and Information Systems (ICACSIS), Jakarta'
 paperurl: 'http://qoribmunajat.github.io/files/prediction-bitcoin-rate-using-ann.pdf'
-citation: 'Radityo, A., Munajat, Q., & Budi, I. (2017). Prediction of Bitcoin Exchange Rate to American Dollar Using Artificial Neural Network Methods. <i>th International Conference on Advanced Computer Science and Information Systems (ICACSIS) (ICIC)</i>.'
+citation: 'Radityo, A., Munajat, Q., & Budi, I. (2017). Prediction of Bitcoin Exchange Rate to American Dollar Using Artificial Neural Network Methods. <i>9th International Conference on Advanced Computer Science and Information Systems (ICACSIS) (ICIC)</i>.'
 ---

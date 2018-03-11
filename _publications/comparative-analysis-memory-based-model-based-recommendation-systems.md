@@ -1,0 +1,11 @@
+---
+title: "A Comparative Analysis of Memory-based and Model-based Collaborative Filtering on the Implementation of Recommender System for Ecommerce in Indonesia"
+collection: publications
+permalink: /publication/comparative-analysis-memory-based-model-based-recommendation-systems
+excerpt: 'This study compares the performance of two implementation approaches of collaborative filtering, which are memory-based and model-based, using data sample of PT X e-commerce.'
+abstract: 'The increasing growth of e-commerce industry in Indonesia motivates e-commerce sites to provide better services to its customer. One of the strategies to improves e-commerce services is by providing personal recommendation, which can be done using recommender systems. However, there is still lack of studies exploring the best technique to implement recommender systems for e-commerce in Indonesia. This study compares the performance of two implementation approaches of collaborative filtering, which are memory-based and model-based, using data sample of PT X e-commerce. The performance of each approach was evaluated using offline testing and user-based testing. The result of this study indicates that the model-based recommender system is better than memory-based recommender system in three aspects: a) the accuracy of recommendation, b) computation time, and c) the relevance of recommendation. For number of transaction less than 300,000 in database, respondents perceived that the computation time of memory-based recommender system is tolerable, even though the computational time is longer than model-based.'
+date: 2016-10-16
+venue: '2016 International Conference on Advanced Computer Science and Information Systems (ICACSIS)'
+paperurl: 'http://qoribmunajat.github.io/files/comparative-analysis-memory-based-model-based-recommendation-systems.pdf'
+citation: 'Aditya, P. H., Budi, I., & Munajat, Q. (2016). A Comparative Analysis of Memory-based and Model-based Collaborative Filtering on the Implementation of Recommender System for Ecommerce in Indonesia. <i>2016 International Conference on Advanced Computer Science and Information Systems (ICACSIS)</i>, pp. 303-308.'
+---

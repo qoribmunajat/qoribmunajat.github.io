@@ -1,0 +1,11 @@
+---
+title: "Exploring information quality dimensions of government agency&#39;s information services through social media: A case of the Ministry of Education and Culture in Indonesia"
+collection: publications
+permalink: /publication/exploring-information-quality-dimensions-government-agency
+excerpt: 'This study aims to investigate information quality dimensions that affect user satisfaction of government&#39;s information services through social media using a case study of the Ministry of Education and Culture (Kemdikbud) in Indonesia.'
+abstract: 'In this digital age, information services have been considered as one vital aspect of modern lives. Along with the dramatic increase of social media users, some government agencies have chosen this new media as information services delivery channel. One important aspect that affects user satisfaction of information services through social media is information quality. Hence, this study aims to investigate information quality dimensions that affect user satisfaction of government&#39;s information services through social media using a case study of the Ministry of Education and Culture (Kemdikbud) in Indonesia. Thus, data of 150 respondents were collected through a survey towards the agency&#39;s social media followers. This study found that intrinsic information quality, namely accuracy, believability, reputation and objectivity, is essential to user satisfaction. In terms of representational quality, ease of understanding and interpretability is considered crucial while in the contextual information quality, completeness, timeliness, informativeness and value-added is deemed important.'
+date: 2016-05-16
+venue: 'Electronic Government, an International Journal'
+paperurl: 'http://qoribmunajat.github.io/files/exploring-information-quality-dimensions-government-agency.pdf'
+citation: 'Widiyanto, N., Sandhyaduhita, P. I., Hidayanto, A. N., & Munajat, Q. (2016). Exploring information quality dimensions of government agency&#39;s information services through social media: A case of the Ministry of Education and Culture in Indonesia. <i>Electronic Government, an International Journal</i>, 12(3), pp. 256-278.'
+---
