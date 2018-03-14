@@ -6,7 +6,7 @@ permalink: /teaching/km
 venue: "University of Indonesia, Faculty of Computer Science"
 date: 2015-01-01
 location: "Depok, Indonesia"
-years:"2015"
+years: "2015"
 ---
 Description
 ======
