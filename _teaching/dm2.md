@@ -8,7 +8,7 @@ date: 2016-01-01
 location: "Depok, Indonesia"
 years: "2016"
 description: "This course teaches mathematical theories about number theory, counting techniques, relation, graphs, and trees to help solve problems in the field of computer science."
-topics:["Number Theories", "Advance Counting Techniques", "Relations", "Graphs", "Trees"]
+topics: ["Number Theories", "Advance Counting Techniques", "Relations", "Graphs", "Trees"]
 ---
 
 
