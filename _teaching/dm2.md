@@ -6,7 +6,7 @@ permalink: /teaching/dm2
 venue: "University of Indonesia, Faculty of Computer Science"
 date: 2016-01-01
 location: "Depok, Indonesia"
-years:"2016"
+years: "2016"
 ---
 Description
 ======
