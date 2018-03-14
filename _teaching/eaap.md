@@ -6,7 +6,7 @@ permalink: /teaching/eaap
 venue: "University of Indonesia, Faculty of Computer Science"
 date: 2017-01-01
 location: "Depok, Indonesia"
-years:"2017, 2018"
+years: "2017, 2018"
 ---
 Description
 ======
