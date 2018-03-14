@@ -36,9 +36,9 @@ layout: default
         
         {% if page.collection == 'teaching' %}
           <table>
-            <tr><td>Course Level:</td><td>page.type</td></tr>
-            <tr><td>Course Location:</td><td>page.venue</td></tr>
-            <tr><td>Year:</td><td>page.years</td></tr>
+            <tr><td>Course Level:</td><td>{{ page.type }}</td></tr>
+            <tr><td>Course Location:</td><td>{{ page.venue }}</td></tr>
+            <tr><td>Year:</td><td>{{ page.years }}</td></tr>
           </table>
           <h3>Description</h3>
           <p> {{ page.description }} </p>
