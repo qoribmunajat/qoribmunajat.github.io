@@ -1,5 +1,5 @@
 ---
-title: "Enterprise Application Architecture and Programming Course"
+title: "Enterprise Application Architecture and Programming"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/eaap
