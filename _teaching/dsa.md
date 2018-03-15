@@ -1,5 +1,5 @@
 ---
-title: "Data Structures and Algorithm Course"
+title: "Data Structures and Algorithm"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/dsa
