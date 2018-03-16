@@ -53,7 +53,9 @@ layout: default
          {% elsif page.collection == 'projects' %}
           <table>
             <tr><td>Project Type:</td><td>{{ page.type }}</td></tr>
-            <tr><td>Project Grant:</td><td>{{ page.grant }}</td></tr>
+            {% if page.grant %}
+              <tr><td>Project Grant:</td><td>{{ page.grant }}</td></tr>
+            {% endif %}
             <tr><td>Years:</td><td>{{ page.years }}</td></tr>
             <tr><td>Organization:</td><td>{{ page.organization }}</td></tr>
           </table>
