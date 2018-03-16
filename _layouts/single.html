@@ -50,6 +50,20 @@ layout: default
             </li>
             {% endfor %}
           </ol>
+         {% elsif page.collection == 'projects' %}
+          <table>
+            <tr><td>Project Type:</td><td>{{ page.type }}</td></tr>
+            <tr><td>Project Grant:</td><td>{{ page.venue }}</td></tr>
+            <tr><td>Years:</td><td>{{ page.years }}</td></tr>
+            <tr><td>Organization:</td><td>{{ page.organization }}</td></tr>
+          </table>
+          <h3>Description</h3>
+          <p> {{ page.description }} </p>
+          <h3>Roles and Responsibilities</h3> 
+          <ul>
+            <li>Roles: {{ page.roles }}</li>
+            <li>Responsibilities: {{ page.responsibilities }}</li>
+          </ul>
         {% elsif page.venue and page.date %}
           <p>Published in <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif page.date %}
