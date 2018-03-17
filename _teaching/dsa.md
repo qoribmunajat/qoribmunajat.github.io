@@ -3,7 +3,7 @@ title: "Data Structures and Algorithm"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/dsa
-venue: "University of Indonesia, Faculty of Computer Science"
+venue: "Universitas Indonesia, Faculty of Computer Science"
 date: 2017-01-01
 location: "Depok, Indonesia"
 years: "2015, 2017"
