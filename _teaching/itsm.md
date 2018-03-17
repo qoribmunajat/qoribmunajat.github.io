@@ -3,7 +3,7 @@ title: "IT Service Management"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/itsm
-venue: "Universitas of Indonesia, Faculty of Computer Science"
+venue: "Universitas Indonesia, Faculty of Computer Science"
 date: 2018-01-01
 location: "Depok, Indonesia"
 years: "2018"
