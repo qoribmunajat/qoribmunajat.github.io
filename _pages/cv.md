@@ -11,6 +11,8 @@ redirect_from:
 Personal Information
 ======
 * Full Name: Qorib Munajat
+* Birthplace/date: Kebumen, 24 February 1989
+* Address: Depok, West of Java, Indonesia
 * Nationality: Indonesia
 * Contacts:
   * Mobile: +61 822 1380 5169
