@@ -7,5 +7,5 @@ abstract: 'The growing awareness of the importance of sustainability motivates c
 date: 2015-07-06
 venue: '2015 Pacific Asia Conference on Information Systems'
 paperurl: 'http://qoribmunajat.github.io/files/identifying-organisational-capability-sustainability-practices.pdf'
-citation: 'Munajat, Q., & Kurnia, S. (2017). Towards Sustainability Framework Development: Identifying Organisational Capability for Sustainability Practices. <i>PACIS</i>, pp. 106.'
+citation: 'Munajat, Q., & Kurnia, S. (2015). Towards Sustainability Framework Development: Identifying Organisational Capability for Sustainability Practices. <i>PACIS</i>, pp. 106.'
 ---
