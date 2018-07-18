@@ -7,5 +7,5 @@ abstract: 'This study discusses the motivation of information sharing activities
 date: 2017-11-06
 venue: 'Procedia Computer Science 124 (2017) 530–535'
 paperurl: 'http://qoribmunajat.github.io/files/user-motivation-sharing-information-social-media.pdf'
-citation: 'Ghaisani, A. P., Munajat, Q., & Handayani, P. W. (2017). Information Credibility Factors on Information Sharing Activities in Social Media. <i>The Second International Conference on Informatics and Computing (ICIC)</i>.'
+citation: 'Ghaisani, A., Handayani, P. W., & P., Munajat, Q. (2017). Users&#39; Motivation in Sharing Information on Social Media. <i>Procedia Computer Science</i>.'
 ---
