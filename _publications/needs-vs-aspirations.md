@@ -1,0 +1,11 @@
+---
+title: "Needs vs. Aspirations in Inter-Agency IT Alignment: The case of IT for integrated criminal justice systems in Indonesia"
+collection: publications
+permalink: /publication/needs-vs-aspirations
+excerpt: 'Inter-organizational IT/IS implementation must deal not only with the technical complexities across different systems, but also the alignment between strategies and expected functionalities between the involved institutions. This paper aims to uncover the aspirational requirements in the implementation of integrated criminal justice systems (ICJS) in Indonesia.'
+abstract: 'Inter-organizational IT/IS implementation must deal not only with the technical complexities across different systems, but also the alignment between strategies and expected functionalities between the involved institutions. This paper aims to uncover the aspirational requirements in the implementation of integrated criminal justice systems (ICJS) in Indonesia. It involved four main agencies: police, prosecutor office, court, and prison, as well as some auxiliary agencies. The research is contrasting the aspiration-based design with rational alignment needs as defined in the classic Strategic Alignment Model. The extension of this classic IT alignment framework provides the inter-relationship discourses between business strategy, business infrastructure, technology strategy, and technology infrastructure in the inter-organizational context. This paper found out that multi-organizational IT alignment framework not always suitable in multi-organizational IT implementation. Improving the alignment inside the respective organization may be provide better answer to address the misaligned situation. This paper also found out that a  arrowfocused aspiration should be catered to reach the immediate success.'
+date: 2018-08-07
+venue: 'The 4th International Conference on Science and Technology'
+paperurl: 'http://qoribmunajat.github.io/files/needs-vs-aspirations.pdf'
+citation: 'Fathony, H. Z., Nazief, B. A. A., & Munajat, Q. (2018). Needs vs. Aspirations in Inter-Agency IT Alignment: The case of IT for integrated criminal justice systems in Indonesia. <i>The 4th International Conference on Science and Technology</i>.'
+---
