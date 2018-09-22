@@ -26,4 +26,3 @@ This course covers the following topics:
 9. Object-Oriented Programming  
 10. Graphical User Interface (GUI)
 11. Binary Files & Exceptions; Testing
-
