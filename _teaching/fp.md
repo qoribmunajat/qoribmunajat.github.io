@@ -7,22 +7,6 @@ venue: "University of Indonesia, Faculty of Computer Science"
 date: 2018-01-01
 location: "Depok, Indonesia"
 years:"2018"
+description: "This course teaches student the foundations of programming using Python programming language. The topics covered are related to programming concepts including but not limited to Variables, Control Mechanism, Functions, Recursion, Object-oriented Programming, Graphical User Interface (GUI), Files & Exceptions, and Testing."
+topics: ["Introduction to Programming and Computer Systems", "Variables; Data Types; Number Systems", "Control Mechanism: Selection and Repetition", "String & Slicing", "Test Files & Exceptions", "Functions; Parameter Passing", "Lists, tuples & mutability; Sets; Dictionaries; Randomness", "Recursion", "Object-Oriented Programming", "Graphical User Interface (GUI)", "Binary Files & Exceptions; Testing"]
 ---
-Description
-======
-This course teaches student the foundations of programming using Python programming language. The topics covered are related to programming concepts including but not limited to Variables, Control Mechanism, Functions, Recursion, Object-oriented Programming, Graphical User Interface (GUI), Files & Exceptions, and Testing.
-
-Topics
-======
-This course covers the following topics:
-1. Introduction to Programming and Computer Systems
-2. Variables; Data Types; Number Systems
-3. Control Mechanism: Selection and Repetition 
-4. String & Slicing
-5. Test Files & Exceptions
-6. Functions; Parameter Passing
-7. Lists, tuples & mutability; Sets; Dictionaries; Randomness 
-8. Recursion
-9. Object-Oriented Programming  
-10. Graphical User Interface (GUI)
-11. Binary Files & Exceptions; Testing
