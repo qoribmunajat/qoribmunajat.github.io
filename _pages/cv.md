@@ -22,8 +22,8 @@ Personal Information
 Education
 ======
 * Bachelor of Computer Science (S.Kom), Faculty of Computer Science, Universitas Indonesia, 2011
-* Master of Computer Science (M.Kom), Faculty of Computer Science, Universitas Indonesia, 2014
-* Master of Information Systems, Faculty of Computer Science, Universitas Indonesia, 2014
+* Master of Computer Science (M.Kom), Faculty of Computer Science, Universitas Indonesia, 2015
+* Master of Information Systems, School of Computing and Information Systems, University of Melbourne, 2014
 
 Work experience
 ======
@@ -44,7 +44,7 @@ Technical Skills
 ======
 * Programming Language
   * Java Programming Language
-  * C Programming Language
+  * Python Programming Language
   * PHP
   * HTML, CSS
   * Javascript, JQuery
@@ -52,6 +52,7 @@ Technical Skills
   * Code Igniter
   * Yii PHP Framework
   * Spring Boot Framework
+  * REACT Js  
 
 Research Interests
 ======
