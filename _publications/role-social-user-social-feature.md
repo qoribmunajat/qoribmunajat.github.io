@@ -1,5 +1,5 @@
 ---
-title: "The Role of Social User and Social Feature on Recommendation Acceptance in Social Commerce"
+title: "The Role of Social User and Social Feature on Recommendation Acceptance in Instagram in Indonesia"
 collection: publications
 permalink: /publication/role-social-user-social-feature
 excerpt: 'This study aims to identify the effect of social features and social users on recommendations acceptance on shopping activities in Instagram.'
