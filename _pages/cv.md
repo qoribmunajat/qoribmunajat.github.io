@@ -16,8 +16,7 @@ Personal Information
 * Nationality: Indonesia
 * Contacts:
   * Mobile: +61 822 1380 5169
-  * Office: +62 21 786 3419 ext. 3311
-  * Email: qorib.munajat@gmail.com; qoribmunajat@cs.ui.ac.id
+  * Email: qorib.munajat@gmail.com
 
 Education
 ======
@@ -27,7 +26,10 @@ Education
 
 Work experience
 ======
-* 2015-Now: Lecturer
+*2022-Now: IT professional
+  * Technical Lead, Prudential
+    
+* 2015-2022: Lecturer
   * Faculty of Computer Science, Universitas Indonesia
   * Duties included: Teaching, Conducting Research, Providing IT Consultancy
 
@@ -52,7 +54,8 @@ Technical Skills
   * Code Igniter
   * Yii PHP Framework
   * Spring Boot Framework
-  * REACT Js  
+  * REACT Js
+  * Quarkus Framework
 
 Research Interests
 ======
